@@ -1,0 +1,6 @@
+echo "# skull-roses" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rob880/skull-roses.git
+git push -u origin master
